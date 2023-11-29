@@ -18,4 +18,4 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - C:/Users/shun1/Pictures/lake.jpg
+  - lake.jpg

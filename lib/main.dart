@@ -96,7 +96,7 @@ Widget textSection = Container(
         body: Column(
             children:[
               Image.asset(
-                'C:/Users/shun1/Pictures/lake.jpg',
+                'lake.jpg',
                 width: 600,
                 height: 240,
                 fit: BoxFit.cover,
